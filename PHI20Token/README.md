@@ -1,4 +1,4 @@
-# PHI20Token - How To Create Your Own Token Like PHI-20 On PHI Chain
+# PHI20Token - How To Create Your Own Token On PHI Chain
 PHI chain PHI-20 token
 
 
