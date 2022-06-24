@@ -14,3 +14,5 @@ Balance Of: It is a predefined function that returns the token balance of the ac
 
 These are just the basic functions that are the must-haves for creating a PHI20 token on the PHI Smart Chain. Other than these, depending on your use-case, there may be a number of functions that also need to be defined for example for staking the token or for the transfer of the token. 
 
+For Convience PHI Labs Has Created An Easy To Use dApp <p><a href="https://phitoken.com">PHI20 Token Launcher</a></p> To Allow Anyone The Ability To Easily Launch New PHI20 Tokens. With Great Power Comes Great Responsibility <p><a href="https://phitoken.com">PHItoken.com</a></p>
+
